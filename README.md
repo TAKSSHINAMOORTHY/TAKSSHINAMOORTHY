@@ -1,4 +1,3 @@
-```md
 # Hi 👋, I'm Taksshinamoorthy
 
 🚀 AI & Full-Stack Developer | Deep Learning Enthusiast | MERN Stack Developer  
@@ -108,4 +107,3 @@
 ---
 
 ⭐️ *"Building intelligent systems that solve real-world problems."*
-```
